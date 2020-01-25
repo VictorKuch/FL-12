@@ -1,0 +1,19 @@
+.hide{
+    display: none;
+}
+.items {
+    cursor: pointer;
+    display: flex;
+    flex-direction: row;
+    align-items: center; 
+     
+}
+.items:hover {
+    background-color: rgb(250, 250, 250);
+}
+.folder-img {
+    color: rgb(245, 196, 18);
+}
+.file-img {
+    color: rgb(158, 154, 154);
+}
